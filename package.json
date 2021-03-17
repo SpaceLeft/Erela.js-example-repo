@@ -13,5 +13,8 @@
     "discord.js": "^12.5.1",
     "erela.js": "^2.3.2",
     "ffmpeg-static": "^4.2.7"
+ },
+  "engines": {
+    "node": "12.x"
   }
 }
